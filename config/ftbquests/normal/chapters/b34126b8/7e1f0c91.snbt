@@ -1,0 +1,16 @@
+{
+	title: "Early Game Rubber",
+	x: -1.5d,
+	y: 1.5d,
+	dependencies: [
+		"c16aa756"
+	],
+	optional: true,
+	tasks: [{
+		uid: "986dc0a1",
+		type: "item",
+		items: [{
+			item: "ic2:rubber_wood"
+		}]
+	}]
+}

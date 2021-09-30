@@ -1,0 +1,21 @@
+{
+	x: 3.0d,
+	y: 5.5d,
+	text: [
+		"The seared singularity, ah... many of the new items that I have added for progression, hm? Did I not tell you?",
+		"Well I'll tell you now, the Seared Singularity requires 100 blocks worth of seared bricks in the smeltery, casted into the singularity. Why did I add this? Just to get you prepared for whats next! :)"
+	],
+	dependencies: [
+		"6fcc0d8d"
+	],
+	tasks: [{
+		uid: "af30478c",
+		type: "checkmark",
+		title: "Seared Singularity.... Should I be worried?"
+	}],
+	rewards: [{
+		uid: "d4746711",
+		type: "toast",
+		title: "Don;t worry."
+	}]
+}

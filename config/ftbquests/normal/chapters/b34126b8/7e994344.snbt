@@ -1,0 +1,16 @@
+{
+	title: "Some Sticks for Tools",
+	x: 0.5d,
+	y: 3.0d,
+	dependencies: [
+		"ea298e93"
+	],
+	tasks: [{
+		uid: "d4ae3ae3",
+		type: "item",
+		items: [{
+			item: "minecraft:stick"
+		}],
+		count: 6L
+	}]
+}

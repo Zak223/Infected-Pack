@@ -1,0 +1,17 @@
+{
+	title: "Oh cool, Tinkers is in this pack! It's going to be fun!",
+	x: 1.5d,
+	y: 5.5d,
+	description: "Wrong.",
+	dependencies: [
+		"bdb7151f"
+	],
+	tasks: [{
+		uid: "ea7655bc",
+		type: "item",
+		items: [{
+			item: "tconstruct:soil"
+		}],
+		count: 128L
+	}]
+}

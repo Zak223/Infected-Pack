@@ -1,0 +1,22 @@
+{
+	title: "Two Logs for ONE PLANKS???? ARE YOU INSANE??",
+	x: 1.5d,
+	y: 1.5d,
+	description: "Yes, yes I am",
+	dependencies: [
+		"c16aa756"
+	],
+	tasks: [{
+		uid: "a2aaa1c1",
+		type: "item",
+		items: [{
+			item: "minecraft:planks"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "ebb05a1e",
+		type: "item",
+		item: "minecraft:deadbush"
+	}]
+}

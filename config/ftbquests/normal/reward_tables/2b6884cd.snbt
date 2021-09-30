@@ -1,0 +1,13 @@
+{
+	title: "Food",
+	loot_size: 1,
+	rewards: [{
+		item: "galacticraftcore:food 1 8"
+	},
+	{
+		item: "harvestcraft:friesitem"
+	},
+	{
+		item: "harvestcraft:epicbaconitem"
+	}]
+}

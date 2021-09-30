@@ -1,0 +1,15 @@
+{
+	title: "Don't worry, the crafting table is normal",
+	x: 2.5d,
+	y: 3.0d,
+	dependencies: [
+		"ea298e93"
+	],
+	tasks: [{
+		uid: "b25ed1e4",
+		type: "item",
+		items: [{
+			item: "minecraft:crafting_table"
+		}]
+	}]
+}

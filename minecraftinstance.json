@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-09-30T11:21:04.4591618Z",
-  "playedCount": 5,
+  "lastPlayed": "2021-09-30T22:46:23.498402Z",
+  "playedCount": 7,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -45,86 +45,10 @@
   "gameTypeID": 432,
   "installPath": "C:\\Users\\Zach\\Twitch\\Minecraft\\Instances\\Infected Pack\\",
   "name": "Infected Pack",
-  "cachedScans": [
-    {
-      "folderName": "appliedenergistics2-rv6-stable-7.jar",
-      "fingerprint": 3112664858,
-      "fileDateHash": 3343600859,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3112664858
-      ],
-      "status": 1,
-      "timestamp": "2021-09-30T11:29:48.4421011Z",
-      "lastWriteTimeUtc": "2021-09-29T23:05:42.3762583Z",
-      "queryTimestamp": "2021-09-30T11:29:50.102524Z",
-      "fileCount": 1,
-      "fileSize": 4062630
-    },
-    {
-      "folderName": "AE2WTLib-1.12.2-1.0.34.jar",
-      "fingerprint": 4147363441,
-      "fileDateHash": 2570731365,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4147363441
-      ],
-      "status": 1,
-      "timestamp": "2021-09-30T11:29:48.4250868Z",
-      "lastWriteTimeUtc": "2021-09-29T23:05:48.6491474Z",
-      "queryTimestamp": "2021-09-30T11:29:50.0950171Z",
-      "fileCount": 1,
-      "fileSize": 243622
-    },
-    {
-      "folderName": "AppleCore-mc1.12.2-3.4.0.jar",
-      "fingerprint": 3756462991,
-      "fileDateHash": 1079141660,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3756462991
-      ],
-      "status": 1,
-      "timestamp": "2021-09-30T11:29:48.4345943Z",
-      "lastWriteTimeUtc": "2021-09-29T23:04:55.9858685Z",
-      "queryTimestamp": "2021-09-30T11:29:50.0995214Z",
-      "fileCount": 1,
-      "fileSize": 89615
-    },
-    {
-      "folderName": "ae2stuff-0.7.0.4-mc1.12.2.jar",
-      "fingerprint": 1154015310,
-      "fileDateHash": 3517702802,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1154015310
-      ],
-      "status": 1,
-      "timestamp": "2021-09-30T11:29:48.4135766Z",
-      "lastWriteTimeUtc": "2021-09-29T23:05:52.7171051Z",
-      "queryTimestamp": "2021-09-30T11:29:50.1035248Z",
-      "fileCount": 1,
-      "fileSize": 513374
-    },
-    {
-      "folderName": "AppleSkin-mc1.12-1.0.14.jar",
-      "fingerprint": 1189087403,
-      "fileDateHash": 483664546,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1189087403
-      ],
-      "status": 1,
-      "timestamp": "2021-09-30T11:29:48.4416008Z",
-      "lastWriteTimeUtc": "2021-09-29T23:03:56.0269186Z",
-      "queryTimestamp": "2021-09-30T11:29:50.102524Z",
-      "fileCount": 1,
-      "fileSize": 33683
-    }
-  ],
+  "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-09-30T11:14:49.1377783Z",
-  "lastRefreshAttempt": "2021-09-30T07:29:50.3257151-04:00",
+  "lastPreviousMatchUpdate": "2021-09-30T22:11:29.4505407Z",
+  "lastRefreshAttempt": "2021-09-30T18:11:30.8402378-04:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -4927,6 +4851,90 @@
       "installedTargets": null
     },
     {
+      "addonID": 242638,
+      "gameInstanceID": "56225c8a-d403-4fe9-a603-5505d4474130",
+      "installedFile": {
+        "id": 2746892,
+        "displayName": "industrialcraft-2-2.8.170-ex112.jar",
+        "fileName": "industrialcraft-2-2.8.170-ex112.jar",
+        "fileDate": "2019-07-23T14:40:29.207Z",
+        "fileLength": 8356436,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2746/892/industrialcraft-2-2.8.170-ex112.jar",
+        "isAlternate": false,
+        "alternateFileId": 2746893,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1816143867,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3106212893,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ic2",
+            "fingerprint": 394834242,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2788083594,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "overview.html",
+            "fingerprint": 2384078512,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3607220516,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3916953727,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "industrialcraft-2-2.8.170-ex112.jar"
+      },
+      "dateInstalled": "2021-09-30T22:11:49.00803Z",
+      "dateUpdated": "2021-09-30T22:11:49.0210421Z",
+      "dateLastUpdateAttempted": "2021-09-30T22:11:49.0210421Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 282743,
       "gameInstanceID": "56225c8a-d403-4fe9-a603-5505d4474130",
       "installedFile": {
@@ -6465,6 +6473,167 @@
       "installedTargets": null
     },
     {
+      "addonID": 268387,
+      "gameInstanceID": "56225c8a-d403-4fe9-a603-5505d4474130",
+      "installedFile": {
+        "id": 2777071,
+        "displayName": "ExtendedCrafting-1.12.2-1.5.6.jar",
+        "fileName": "ExtendedCrafting-1.12.2-1.5.6.jar",
+        "fileDate": "2019-09-02T18:57:19.553Z",
+        "fileLength": 446452,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2777/71/ExtendedCrafting-1.12.2-1.5.6.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 272335,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 239197,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 878986063,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3776681196,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 787969826,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 929476182,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3483882196,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "ExtendedCrafting-1.12.2-1.5.6.jar"
+      },
+      "dateInstalled": "2021-09-30T22:45:41.86604Z",
+      "dateUpdated": "2021-09-30T22:45:41.8755478Z",
+      "dateLastUpdateAttempted": "2021-09-30T22:45:41.8755478Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 60089,
+      "gameInstanceID": "56225c8a-d403-4fe9-a603-5505d4474130",
+      "installedFile": {
+        "id": 2671937,
+        "displayName": "[1.12.2] Mouse Tweaks 2.10",
+        "fileName": "MouseTweaks-2.10-mc1.12.2.jar",
+        "fileDate": "2019-02-11T11:33:40.123Z",
+        "fileLength": 75170,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2671/937/MouseTweaks-2.10-mc1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 2671938,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3802495670,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "yalter",
+            "fingerprint": 2419623870,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "litemod.json",
+            "fingerprint": 3374986446,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mousetweaks_logo.png",
+            "fingerprint": 523611981,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 101733854,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 533666569,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "MouseTweaks-2.10-mc1.12.2.jar"
+      },
+      "dateInstalled": "2021-09-29T23:03:52.4563498Z",
+      "dateUpdated": "2021-09-29T23:03:52.464858Z",
+      "dateLastUpdateAttempted": "2021-09-29T23:03:52.464858Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 266736,
       "gameInstanceID": "56225c8a-d403-4fe9-a603-5505d4474130",
       "installedFile": {
@@ -6699,83 +6868,6 @@
       "dateInstalled": "2021-09-29T23:06:12.6936557Z",
       "dateUpdated": "2021-09-29T23:06:12.6966589Z",
       "dateLastUpdateAttempted": "2021-09-29T23:06:12.6966589Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 60089,
-      "gameInstanceID": "56225c8a-d403-4fe9-a603-5505d4474130",
-      "installedFile": {
-        "id": 2671937,
-        "displayName": "[1.12.2] Mouse Tweaks 2.10",
-        "fileName": "MouseTweaks-2.10-mc1.12.2.jar",
-        "fileDate": "2019-02-11T11:33:40.123Z",
-        "fileLength": 75170,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2671/937/MouseTweaks-2.10-mc1.12.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 2671938,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3802495670,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "yalter",
-            "fingerprint": 2419623870,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "litemod.json",
-            "fingerprint": 3374986446,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mousetweaks_logo.png",
-            "fingerprint": 523611981,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 101733854,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 533666569,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "MouseTweaks-2.10-mc1.12.2.jar"
-      },
-      "dateInstalled": "2021-09-29T23:03:52.4563498Z",
-      "dateUpdated": "2021-09-29T23:03:52.464858Z",
-      "dateLastUpdateAttempted": "2021-09-29T23:03:52.464858Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,

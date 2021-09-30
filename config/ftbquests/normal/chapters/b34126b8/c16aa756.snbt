@@ -1,4 +1,5 @@
 {
+	title: "Why do I need so much wood?",
 	x: 0.0d,
 	y: 0.0d,
 	tasks: [{
@@ -8,5 +9,10 @@
 			item: "minecraft:log"
 		}],
 		count: 16L
+	}],
+	rewards: [{
+		uid: "e38fe9b4",
+		type: "random",
+		table: 0
 	}]
 }
