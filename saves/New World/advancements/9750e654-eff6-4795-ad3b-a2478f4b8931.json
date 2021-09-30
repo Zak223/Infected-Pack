@@ -1,25 +1,25 @@
 {
   "astralsorcery:root": {
     "criteria": {
-      "astralsorcery_present": "2021-09-30 18:48:55 -0400"
+      "astralsorcery_present": "2021-09-30 18:59:39 -0400"
     },
     "done": true
   },
   "galacticraftcore:galacticraft/root": {
     "criteria": {
-      "tick": "2021-09-30 18:48:55 -0400"
+      "tick": "2021-09-30 18:59:39 -0400"
     },
     "done": true
   },
   "twilightforest:alt/compat/tconstruct": {
     "criteria": {
-      "book": "2021-09-30 18:48:51 -0400"
+      "book": "2021-09-30 18:59:35 -0400"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "forest_hills": "2021-09-30 18:48:52 -0400"
+      "extreme_hills": "2021-09-30 18:59:35 -0400"
     },
     "done": false
   }
