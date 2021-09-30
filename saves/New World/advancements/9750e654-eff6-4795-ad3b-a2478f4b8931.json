@@ -1,0 +1,26 @@
+{
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2021-09-30 07:24:04 -0400"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/root": {
+    "criteria": {
+      "tick": "2021-09-30 07:24:04 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "book": "2021-09-30 07:24:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2021-09-30 07:24:04 -0400"
+    },
+    "done": false
+  }
+}
