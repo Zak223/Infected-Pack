@@ -1,5 +1,6 @@
 {
 	title: "The Begining",
+	icon: "extendedcrafting:singularity_custom 1 1",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""
